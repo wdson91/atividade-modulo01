@@ -1,20 +1,20 @@
 # atividade-modulo01
 
 ##
-Uma pessoa do grupo irá criar o repositório.
+1-Uma pessoa do grupo irá criar o repositório.
 ##
-As outras irão realizar o fork do repositório da atividade.
+2-As outras irão realizar o fork do repositório da atividade.
 ##
-Criar um README com o detalhamento da atividade.
+3-Criar um README com o detalhamento da atividade.
 ##
-Clonar o repositório para o computador pessoal.
+4-Clonar o repositório para o computador pessoal.
 ##
-Criar em um diretório o dois arquivos python.
+5-Criar em um diretório o dois arquivos python.
 ##
-Um arquivo deve conter as funções e o outro deve utilizá-las.
+6-Um arquivo deve conter as funções e o outro deve utilizá-las.
 ##
-Nas funções devem constar todas as operações matemáticas vistas até agora entre dois números (+, -, *, /, % e //).
+7-Nas funções devem constar todas as operações matemáticas vistas até agora entre dois números (+, -, *, /, % e //).
 ##
-Imprimir uma mensagem de agradecimento por utilizar o programa. 
+8-Imprimir uma mensagem de agradecimento por utilizar o programa. 
 ##
-Todos do grupo devem commitar no reposiótio da atividade.
+9-Todos do grupo devem commitar no reposiótio da atividade.
