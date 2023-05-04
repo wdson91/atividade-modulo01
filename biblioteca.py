@@ -9,3 +9,9 @@ def multiplicacao(a, b):
 
 def divisao(a, b):
     return a / b
+
+def modulo(a, b):
+    return a % b
+
+def divisao_inteira(a, b):
+    return a // b
